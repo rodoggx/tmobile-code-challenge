@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Code-Challenge-master.iml" filepath="$PROJECT_DIR$/Code-Challenge-master.iml" group="Code-Challenge-master" />
+      <module fileurl="file://$PROJECT_DIR$/app/Code-Challenge-master-app.iml" filepath="$PROJECT_DIR$/app/Code-Challenge-master-app.iml" group="Code-Challenge-master/app" />
+      <module fileurl="file://$PROJECT_DIR$/DeltaChallenge.iml" filepath="$PROJECT_DIR$/DeltaChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>

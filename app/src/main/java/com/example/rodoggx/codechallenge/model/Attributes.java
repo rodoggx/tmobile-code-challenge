@@ -1,11 +1,17 @@
 package com.example.rodoggx.codechallenge.model;
 
+import com.google.gson.annotations.Expose;
+import com.google.gson.annotations.SerializedName;
+
 public class Attributes {
-    private String text_color;
+    @SerializedName("text_color")
+    @Expose
+    private String textColor;
+    @Expose
     private Font font;
 
-    public String getText_color() {
-        return text_color;
+    public String getTextColor() {
+        return textColor;
     }
 
     public Font getFont() {
